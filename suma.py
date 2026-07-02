@@ -1,7 +1,7 @@
 import streamlit as st
 
-# Título y diseño FINAL
-st.title("Calculadora Básica de Suma")
+# Título y diseño
+st.title("Calculadora Básica de Suma de dos números")
 st.write("Ingresa dos números para obtener su suma:")
 
 # Entradas de usuario
