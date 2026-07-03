@@ -5,8 +5,8 @@ st.title("Calculadora Básica de Suma de dos números")
 st.write("Ingresa dos números para obtener su suma:")
 
 # Entradas de usuario
-num1 = st.number_input("Número 1", value=0)
-num2 = st.number_input("Número 2", value=0)
+num1 = st.number_input("Números primro", value=0)
+num2 = st.number_input("Número r;wuifuierh2", value=0)
 
 # Botón y lógica
 if st.button("Sumar"):
